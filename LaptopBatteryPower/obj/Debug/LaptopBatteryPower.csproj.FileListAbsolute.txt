@@ -1,0 +1,11 @@
+C:\Users\HP\Documents\LaptopBatteryPower\LaptopBatteryPower\bin\Debug\LaptopBatteryPower.exe.config
+C:\Users\HP\Documents\LaptopBatteryPower\LaptopBatteryPower\bin\Debug\LaptopBatteryPower.exe
+C:\Users\HP\Documents\LaptopBatteryPower\LaptopBatteryPower\bin\Debug\LaptopBatteryPower.pdb
+C:\Users\HP\Documents\LaptopBatteryPower\LaptopBatteryPower\obj\Debug\LaptopBatteryPower.csprojAssemblyReference.cache
+C:\Users\HP\Documents\LaptopBatteryPower\LaptopBatteryPower\obj\Debug\LaptopBatteryPower.Properties.Resources.resources
+C:\Users\HP\Documents\LaptopBatteryPower\LaptopBatteryPower\obj\Debug\LaptopBatteryPower.csproj.GenerateResource.cache
+C:\Users\HP\Documents\LaptopBatteryPower\LaptopBatteryPower\obj\Debug\LaptopBatteryPower.exe
+C:\Users\HP\Documents\LaptopBatteryPower\LaptopBatteryPower\obj\Debug\LaptopBatteryPower.pdb
+C:\Users\HP\Documents\LaptopBatteryPower\LaptopBatteryPower\bin\Debug\M2Mqtt.Net.dll
+C:\Users\HP\Documents\LaptopBatteryPower\LaptopBatteryPower\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\HP\Documents\LaptopBatteryPower\LaptopBatteryPower\obj\Debug\LaptopBatteryPower.csproj.CopyComplete
